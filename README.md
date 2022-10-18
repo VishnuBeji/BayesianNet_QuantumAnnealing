@@ -3,6 +3,8 @@
 ## Introduction
 In the paper [O'Gorman et al.](https://doi.org/10.1140/epjst/e2015-02349-9), we are introduced to the concept of Bayesian Network structure learning with  encoding into a **Quadratic Unconstrained Binary Optimisation** (**QUBO**) problem. 
 
+This is an implementation of the same, with results upon ALARM dataset.
+
 ## Problems Used
 Patient monitoring system from ALARM dataset:
 
